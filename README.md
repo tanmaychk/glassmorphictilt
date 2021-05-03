@@ -1,6 +1,6 @@
 # Glassmorphic Cards
 
-[Glassmorphic cards with tilts](https://itstanbtw.github.io/glassmorphtilt/)
+[Glassmorphic cards with tilts](https://itstanbtw.github.io/glassmorphictilt/)
 
 ## Languages Used
 
